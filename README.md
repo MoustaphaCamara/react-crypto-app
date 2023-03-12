@@ -1,6 +1,6 @@
 # Crypto Watch Tower
 
-##API
+## API
 
 [Market data](https://api.coingecko.com/api/v3/global)
 
@@ -10,6 +10,6 @@ Coin price chart : `https://api.coingecko.com/api/v3/coins/${coinId}/market_char
 
 Coingecko : `https://www.coingecko.com/fr/pi%C3%A8ces/`
 
-##Charts
+## Charts
 
 [Recharts Treemap](https://recharts.org/en-US/api/Treemap)
